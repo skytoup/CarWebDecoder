@@ -1,0 +1,9 @@
+{
+  "name": "CAR Web Decoder",
+  "short_name": "CAR Decoder",
+  "description": "Browser-local Apple .car decoder built on STUParser car-wasm.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#111827"
+}
